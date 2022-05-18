@@ -1,0 +1,112 @@
+body{
+	font-family: Comic Sans MS, Comic Sans, cursive;	
+}
+header {
+	background-color: green;
+	height: 40px;
+}
+.sale{
+	background-color: darkgreen;
+ position: absolute;
+	height: 40px;
+	width: 180px;
+	right: 50px;
+}
+.saletext{
+	color: white;
+}
+nav{
+	background-color:;
+}
+ul{
+	text-align: center;
+	list-style-type: none;
+}
+li{
+	display: inline;
+	padding: 4%;
+}
+a{
+	text-decoration: none;
+	color:black;
+}
+
+.banner {
+	background-image:url(cofe.jpg);
+height: 400px;
+
+}	
+p{
+	color: white;
+}
+
+#comp{
+	padding-top: 110px;
+	font-size: 18px;
+	margin-left: 50%; 
+}
+#catt{
+padding-top: 10px;
+	font-size: 26px;
+	margin-left: 50%; 
+	font-weight: bold;
+}
+#bt1{
+ border: 2px solid white;
+	margin-left: 50%; 
+	color: white;
+	background-color: black;
+}
+.blc{
+	background-image:url(hh.jpg);
+	height: 150px;
+}
+#rg{
+ font-size: 20px;
+ margin-top: 5px;
+}
+
+#cf{
+	float: left;
+}
+button{
+	border: 2px solid white;
+	color: white;
+	background-color: black;
+}
+.text_m{
+	background-color: black;
+	height: 220px;
+	width: 25%;
+	float: left;
+}
+.foto_m{
+	background-image:url(cofe.jpg );
+	height: 220px;
+	width: 25%;
+	float: left;
+}
+.foto_m1{
+	background-image:url(art.jpg );
+	height: 220px;
+	width: 25%;
+	float: left;
+}
+.foto_m2{
+	background-image:url(art2.jpg );
+	height: 220px;
+	width: 25%;
+	float: left;
+}
+.foto_m3{
+	background-image:url(art3.jpg );
+	height: 220px;
+	width: 25%;
+	float: left;
+}
+.foto_m4{
+	background-image:url(art4.jpg );
+	height: 220px;
+	width: 25%;
+	float: left;
+}
